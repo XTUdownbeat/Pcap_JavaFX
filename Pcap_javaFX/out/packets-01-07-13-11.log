@@ -1,0 +1,6 @@
+2025-01-07 13:11 - Pcap4J successfully loaded a native pcap library: Npcap version 1.80, based on libpcap version 1.10.4
+2025-01-07 13:11 - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+2025-01-07 13:11 - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+2025-01-07 13:11 - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+2025-01-07 13:11 - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+2025-01-07 13:11 - 9 NIF(s) found.

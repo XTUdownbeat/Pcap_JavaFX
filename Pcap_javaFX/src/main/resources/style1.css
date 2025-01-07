@@ -1,0 +1,42 @@
+
+/* 设置按钮的样式 */
+.button {
+    -fx-background-color: transparent; /* 按钮背景透明 */
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white; /* 改为黑色字体，以便在白色背景上可见 */
+    -fx-border-color: black; /* 边框颜色 */
+}
+
+/* 设置文本框的透明背景 */
+.text-field {
+    -fx-background-color: transparent; /* 文本框背景透明 */
+    -fx-border-color: black; /* 边框颜色 */
+    -fx-text-fill: black; /* 字体颜色改为黑色 */
+    -fx-font-size: 14px;
+}
+
+
+/* 设置标题文本的样式 */
+.label {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black; /* 字体颜色改为黑色 */
+}
+
+/* 确保整个界面的透明背景 */
+.scene {
+    -fx-background-color: transparent; /* 背景透明 */
+}
+
+/* 修改 ListView 的样式，使得列表的字体清晰 */
+.list-view {
+    -fx-control-inner-background: transparent;
+    -fx-background-color: transparent;
+    -fx-border-color: black; /* 边框颜色 */
+    -fx-font-size: 14px;
+    -fx-font-family: 'Monospaced'; /* 单一字体 */
+    -fx-text-fill: black; /* 字体颜色改为黑色 */
+}
+
+
